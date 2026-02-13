@@ -44,3 +44,6 @@ I apply these principles to perform dimensionality reduction (like PCA), simplif
 
 # [Cloud Basics](Cloud_(basics_not_completed).pdf)
   Building a foundational knowledge of Cloud services, specifically regarding data storage and object management. I understand the basic workflow of uploading and retrieving files from the cloud, serving as a stepping stone towards mastering cloud-based deployment.
+
+# [Optimization_for AI and Data_Science](Optimization_ for_ AI _and _Data_ Science_compressed.pdf) 
+Deep understanding of the optimization algorithms that drive Machine Learning model training. I command the mechanics of Gradient Descent and its variations (SGD, Adam) to iteratively minimize loss functions. This knowledge allows me to tune models for faster convergence and better accuracy.
