@@ -36,3 +36,8 @@ Harvard's Introduction to Computer Science provided a rigorous foundation in the
 
 Mastered the fundamentals of Linear Algebra, focusing on vector spaces and matrix operations as the core language of Machine Learning. I understand how high-dimensional vectors represent complex data—such as word embeddings in NLP—and how matrix transformations drive the learning process in neural networks."Proficient in Linear Algebra concepts essential for data science, including Eigenvalues, Eigenvectors, and Singular Value Decomposition (SVD).
 I apply these principles to perform dimensionality reduction (like PCA), simplifying complex datasets while retaining critical information for efficient model training.
+
+# [Calculus_For_AI and_Data_Science](Calculus_For_AI_and_Data_Science_compressed.pdf)
+
+ Deep understanding of multivariate calculus and its critical role in Machine Learning optimization. I apply concepts like derivatives, gradients, and the chain rule to understand how algorithms learn, specifically through backpropagation and gradient descent to minimize loss functions.
+ "Proficient in using calculus to model and analyze rates of change within complex systems. I leverage differential calculus to understand dynamic processes and integral calculus for accumulating quantities, providing the mathematical rigor needed for advanced predictive modeling.
