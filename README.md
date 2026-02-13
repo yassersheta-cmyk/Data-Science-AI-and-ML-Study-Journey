@@ -7,3 +7,5 @@ Harvard's Introduction to Computer Science provided a rigorous foundation in the
    "Proficient in using Microsoft SQL Server for data extraction, manipulation, and analysis. I am skilled in writing complex queries involving multiple joins, subqueries, and window functions to derive actionable insights. My experience extends to handling large datasets efficiently, ensuring data accuracy and readiness for analytical or reporting purposes."
 
 # [Git and Github]( Git_and_Github_(basics).pdf)   
+
+    "Proficient in using Git for version control to manage code evolution and ensure project integrity. I am experienced in the full GitHub workflow, from creating branches and managing pull requests to resolving merge conflicts effectively. This allows me to collaborate seamlessly within software teams and maintain a clean, organized codebase."
