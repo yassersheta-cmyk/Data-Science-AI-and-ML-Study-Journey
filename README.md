@@ -54,3 +54,7 @@ Difference between these concepts are important in Python
 # [Regular Expression](Regular_Expression.pdf)
 
   Proficient in using Regular Expressions (Regex) for advanced text processing and data cleaning. I construct complex patterns to extract specific entities, validate data formats, and transform unstructured text into structured datasets ready for analysis. Leveraging Regular Expressions as a fundamental tool for Natural Language Processing (NLP) pipelines. I apply efficient pattern matching to tokenize text, remove noise, and normalize data, ensuring high-quality input for machine learning models.
+
+# [Some Algorithms in ML and DL](Some_Algorithms_in_ML_and_DL.pdf) 
+
+ Solid understanding of core Machine Learning and Deep Learning algorithms, covering both Supervised and Unsupervised learning. I am proficient in implementing classic models like Linear/Logistic Regression, Decision Trees, and K-Means clustering, while also exploring Deep Learning architectures like Neural Networks. This enables me to select the most appropriate model based on data characteristics and business objectives
