@@ -26,3 +26,8 @@ Harvard's Introduction to Computer Science provided a rigorous foundation in the
  # [Time Complexity](TimeComplexity.pdf)  
  
  Strong grasp of algorithmic efficiency and Big O notation. I analyze time and space complexity to optimize code performance, ensuring that applications remain responsive and scalable even under heavy loads or worst-case scenarios. Applying Time Complexity analysis to select the most efficient algorithms for data processing. I evaluate the computational cost of operations—crucial for handling massive datasets in Machine Learning pipelines—to minimize execution time and resource consumption.
+
+
+ # [Probability_and_Statistics](Probability_and_Statistics_compressed.pdf)
+
+  Built a strong foundation in probability theory and statistical inference, recognizing them as the mathematical backbone of Machine Learning. I understand key concepts like probability distributions (Normal, Binomial) and hypothesis testing, which allows me to validate data assumptions and interpret model confidence correctly.
