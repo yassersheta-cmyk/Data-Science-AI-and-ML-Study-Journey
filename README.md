@@ -9,3 +9,7 @@ Harvard's Introduction to Computer Science provided a rigorous foundation in the
 # [Git and Github]( Git_and_Github_(basics).pdf)   
 
   Proficient in using Git for version control to manage code evolution and ensure project integrity. I am experienced in the full GitHub workflow, from creating branches and managing pull requests to resolving merge conflicts effectively. This allows me to collaborate seamlessly within software teams and maintain a clean, organized codebase.
+
+# [pandas and data cleaning](Pandas_and_Data_Cleaning_compressed.pdf)  
+
+  Proficient in using the Pandas library for comprehensive data manipulation and analysis in Python. I specialize in the critical data cleaning phase: handling missing values, correcting data types, and filtering noise to ensure dataset quality. This rigorous preparation is foundational for building accurate and reliable Machine Learning models.
