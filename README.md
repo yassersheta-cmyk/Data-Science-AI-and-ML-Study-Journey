@@ -5,3 +5,5 @@ Harvard's Introduction to Computer Science provided a rigorous foundation in the
 
 # [SQL_Basics](Basics_SQL_Microsoft_SQL_Server.pdf)
    "Proficient in using Microsoft SQL Server for data extraction, manipulation, and analysis. I am skilled in writing complex queries involving multiple joins, subqueries, and window functions to derive actionable insights. My experience extends to handling large datasets efficiently, ensuring data accuracy and readiness for analytical or reporting purposes."
+
+# [Git and Github]()   
