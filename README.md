@@ -31,3 +31,8 @@ Harvard's Introduction to Computer Science provided a rigorous foundation in the
  # [Probability_and_Statistics](Probability_and_Statistics_compressed.pdf)
 
   Built a strong foundation in probability theory and statistical inference, recognizing them as the mathematical backbone of Machine Learning. I understand key concepts like probability distributions (Normal, Binomial) and hypothesis testing, which allows me to validate data assumptions and interpret model confidence correctly.
+
+ # [Linear_Algebra_For_AI_and_Data Science](Linear_Algebra_For_AI_and_Data Science_compressed.pdf) 
+
+Mastered the fundamentals of Linear Algebra, focusing on vector spaces and matrix operations as the core language of Machine Learning. I understand how high-dimensional vectors represent complex data—such as word embeddings in NLP—and how matrix transformations drive the learning process in neural networks."Proficient in Linear Algebra concepts essential for data science, including Eigenvalues, Eigenvectors, and Singular Value Decomposition (SVD).
+I apply these principles to perform dimensionality reduction (like PCA), simplifying complex datasets while retaining critical information for efficient model training.
