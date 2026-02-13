@@ -13,3 +13,7 @@ Harvard's Introduction to Computer Science provided a rigorous foundation in the
 # [pandas and data cleaning](Pandas_and_Data_Cleaning_compressed.pdf)  
 
   Proficient in using the Pandas library for comprehensive data manipulation and analysis in Python. I specialize in the critical data cleaning phase: handling missing values, correcting data types, and filtering noise to ensure dataset quality. This rigorous preparation is foundational for building accurate and reliable Machine Learning models.
+
+# [numpy](Numpy(Basics)_compressed.pdf)
+
+ Leveraging NumPy for high-performance numerical computing and matrix operations. I utilize N-dimensional arrays and vectorized processing to handle large datasets efficiently, significantly optimizing calculation speed compared to standard lists. This expertise is critical for implementing the linear algebra logic required in Machine Learning algorithms.
