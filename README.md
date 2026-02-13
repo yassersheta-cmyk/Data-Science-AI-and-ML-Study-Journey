@@ -50,3 +50,7 @@ Deep understanding of the optimization algorithms that drive Machine Learning mo
 
 # [List , Tuple , Sets And Dictionary ](List,Tuple,Set,Dictionary.pdf)
 Difference between these concepts are important in Python
+
+# [Regular Expression](Regular_Expression.pdf)
+
+  Proficient in using Regular Expressions (Regex) for advanced text processing and data cleaning. I construct complex patterns to extract specific entities, validate data formats, and transform unstructured text into structured datasets ready for analysis. Leveraging Regular Expressions as a fundamental tool for Natural Language Processing (NLP) pipelines. I apply efficient pattern matching to tokenize text, remove noise, and normalize data, ensuring high-quality input for machine learning models.
