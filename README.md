@@ -48,5 +48,5 @@ I apply these principles to perform dimensionality reduction (like PCA), simplif
 # [Optimization_for AI and Data_Science](Optimization_for_AI_and_Data_Science_compressed.pdf) 
 Deep understanding of the optimization algorithms that drive Machine Learning model training. I command the mechanics of Gradient Descent and its variations (SGD, Adam) to iteratively minimize loss functions. This knowledge allows me to tune models for faster convergence and better accuracy.
 
-# [List , Tuple , Sets And Dictionary ](List,Tuple,Set,Dictionary)
+# [List , Tuple , Sets And Dictionary ](List,Tuple,Set,Dictionary.pdf)
 Difference between these concepts are important in Python
