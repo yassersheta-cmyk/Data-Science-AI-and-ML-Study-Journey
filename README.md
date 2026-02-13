@@ -21,3 +21,8 @@ Harvard's Introduction to Computer Science provided a rigorous foundation in the
  # [Matplotlib](Matplotlib.pdf)
 
    Proficient in using Matplotlib to create comprehensive static and interactive visualizations in Python. I transform complex datasets into clear, informative charts—such as histograms and scatter plots—to uncover hidden trends and patterns during Exploratory Data Analysis (EDA). This visual approach is crucial for understanding data distribution before model training.
+
+
+ # [Time Complexity](TimeComplexity.pdf)  
+ 
+ Strong grasp of algorithmic efficiency and Big O notation. I analyze time and space complexity to optimize code performance, ensuring that applications remain responsive and scalable even under heavy loads or worst-case scenarios. Applying Time Complexity analysis to select the most efficient algorithms for data processing. I evaluate the computational cost of operations—crucial for handling massive datasets in Machine Learning pipelines—to minimize execution time and resource consumption.
