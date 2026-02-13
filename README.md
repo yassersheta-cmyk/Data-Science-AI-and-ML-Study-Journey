@@ -41,3 +41,6 @@ I apply these principles to perform dimensionality reduction (like PCA), simplif
 
  Deep understanding of multivariate calculus and its critical role in Machine Learning optimization. I apply concepts like derivatives, gradients, and the chain rule to understand how algorithms learn, specifically through backpropagation and gradient descent to minimize loss functions.
  "Proficient in using calculus to model and analyze rates of change within complex systems. I leverage differential calculus to understand dynamic processes and integral calculus for accumulating quantities, providing the mathematical rigor needed for advanced predictive modeling.
+
+# [Cloud Basics](Cloud_(basics_not_completed).pdf)
+  Building a foundational knowledge of Cloud services, specifically regarding data storage and object management. I understand the basic workflow of uploading and retrieving files from the cloud, serving as a stepping stone towards mastering cloud-based deployment.
