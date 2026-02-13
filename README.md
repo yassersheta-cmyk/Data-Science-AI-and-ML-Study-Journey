@@ -17,3 +17,7 @@ Harvard's Introduction to Computer Science provided a rigorous foundation in the
 # [numpy](Numpy(Basics)_compressed.pdf)
 
  Leveraging NumPy for high-performance numerical computing and matrix operations. I utilize N-dimensional arrays and vectorized processing to handle large datasets efficiently, significantly optimizing calculation speed compared to standard lists. This expertise is critical for implementing the linear algebra logic required in Machine Learning algorithms.
+
+ # [Matplotlib](Matplotlib.pdf)
+
+   Proficient in using Matplotlib to create comprehensive static and interactive visualizations in Python. I transform complex datasets into clear, informative charts—such as histograms and scatter plots—to uncover hidden trends and patterns during Exploratory Data Analysis (EDA). This visual approach is crucial for understanding data distribution before model training.
